@@ -36,7 +36,7 @@ h1 {
 .container {
     max-width: 1100px;
     margin: 0 auto;
-    padding: 0 10px;
+    padding: 0 5px;
     
 
 }
@@ -44,7 +44,7 @@ h1 {
 .flex-container{
     display: flex;
     justify-content: space-between;
-        
+
 }
 
 .col{
@@ -81,7 +81,7 @@ h1 {
 
 .discount-green{
     position: absolute;
-    bottom: 7%;
+    bottom: 0;
     left: 11%;
     font-size: 11px;
     color: white;
@@ -103,9 +103,7 @@ h1 {
 
 }
 
-.descrittori{
-    position: absolute;
-}
+
 
 
 .price{
