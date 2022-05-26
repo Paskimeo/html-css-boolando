@@ -41,6 +41,13 @@ h1 {
 
 }
 
+.container-tag{
+    width: 10px;
+    margin: 0 auto;
+    background-color: rgb(197, 40, 40);
+    position: absolute;
+}
+
 .flex-container{
     display: flex;
     justify-content: space-between;
