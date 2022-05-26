@@ -65,9 +65,12 @@ h1 {
 }
 
 
+
+
+
 .discount-red{
     position: absolute;
-    bottom: 7%;
+    bottom: 17%;
     left: 0;
     font-size: 11px;
     color: white;
@@ -81,7 +84,7 @@ h1 {
 
 .discount-green{
     position: absolute;
-    bottom: 0;
+    bottom: 17%;
     left: 11%;
     font-size: 11px;
     color: white;
