@@ -9,7 +9,7 @@
 /* utilities */
 .bg-red {
   background-color: red;
-  width: 34px;
+  
   
 
   
@@ -61,7 +61,7 @@ h1 {
 }
 
 .product{
-    padding-bottom: 20px;
+    padding-bottom: 0px;
     position: relative;
 }
 
@@ -71,32 +71,31 @@ h1 {
     
 }
 
-
+.etichette{
+    position: absolute;
+    bottom: 15px;
+    left: 0%;
+}
 
 
 
 .discount-red{
-    position: absolute;
-    bottom: 17%;
-    left: 0;
+   
     font-size: 11px;
     color: white;
     text-align: center;
-    padding-top: 3px;
-    padding-bottom: 3px; 
+    padding: 3px;
     font-weight: bold;
 }
 
 
 
 .discount-green{
-    position: absolute;
-    bottom: 17%;
-    left: 11%;
     font-size: 11px;
+    padding: 3px;
     color: white;
     text-align: center;
-   padding: 3px;
+   
     
     
 }
