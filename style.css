@@ -1,0 +1,26 @@
+/*reset*/
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+
+/*utilities*/
+
+.font{
+    font-family: 'Fredoka', sans-serif;
+}
+
+.bg-red {
+    background-color: red;
+    width: 34px;
+}
+
+
+.bg-green {
+  background-color: green;
+}
+
+
+/*layout*/
